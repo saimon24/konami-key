@@ -38,3 +38,5 @@ export class AppModule { }
 ### Trigger the Animation
 
 Open your page and fire the Konami Code (↑ ↑ ↓ ↓ ← → ← → B A)!
+
+![Alt Text](https://s2.gifyu.com/images/2021-01-15-17.10.13.gif)
