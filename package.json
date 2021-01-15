@@ -1,0 +1,12 @@
+{
+  "name": "konami-key",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.13",
+    "@angular/core": "^9.1.13",
+    "dom-confetti": "0.2.2"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  }
+}
